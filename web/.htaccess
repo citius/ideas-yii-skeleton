@@ -1,6 +1,4 @@
 SetEnv APP_ENVIRONMENT local
-#Options +FollowSymLinks
-#IndexIgnore */*
 
 RewriteEngine on
 
